@@ -24,25 +24,24 @@ locomotive *and* the power of `sl` straight to your terminal. Ready to make your
    environment**
    (Recommended) you can just simply copy & paste commands below.
 
+    - **VENV**
 
-1. **VENV**
+      Go to project directory and run commands below.
 
-   Go to project directory and run commands below.
+       ````bash
+       python -m venv .venv
+       source .venv/bin/activate
 
-     ````bash
-     python -m venv .venv
-     source .venv/bin/activate
+    - **Global Packages**
 
-2. **Global Packages**
+      You can just simply use pip or your package manager to install the dependencies.
 
-   You can just simply use pip or your package manager to install the dependencies.
-
-     ````bash
-     # using pip
-     pip install pydub
-     
-     # using system package manager
-     apt install python3-pydub
+         ````bash
+         # using pip
+         pip install pydub
+      
+         # using system package manager
+         apt install python3-pydub
 
 3. **Run the script**
 
