@@ -45,4 +45,5 @@ locomotive *and* the power of `sl` straight to your terminal. Ready to make your
 
 3. **Run the script**
 
-   For running the script simply just run the run.sh
+   For running the script if you use venv simply just source the venv and run the run.sh otherwise you don't need venv just run the run.sh
+ 
