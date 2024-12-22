@@ -31,6 +31,8 @@ locomotive *and* the power of `sl` straight to your terminal. Ready to make your
        ````bash
        python -m venv .venv
        source .venv/bin/activate
+       # do this just once to install dependency
+       pip install pydub
 
     - **Global Packages**
 
